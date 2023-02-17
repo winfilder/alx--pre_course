@@ -1,7 +1,0 @@
-touch alx
-#!/bash/bin
-echo ALX
-touch school
-#!/bash/bin
-echo school
-git add .
